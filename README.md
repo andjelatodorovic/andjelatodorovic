@@ -1,9 +1,9 @@
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=AED1D6" />](http://andjelatodorovich.com)    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andjelatodorovich/)       [<img src ="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/andjelatodorovich/) 
 
-🌱 <em> My professional passion sums up to contributing to research in machine and deep learning, and application of statistical inference tools in bioinformatics. </em> 
+🌱 <em> My professional passion sums up to contributing to research in machine <br> and deep learning, and application of statistical inference tools in bioinformatics. </em> 
 <br>
 
-👩🏼‍🎓 <em> I enjoy spending my spare time by implementing well-known ML algorithms from scratch 
+👩🏼‍🎓 <em> I enjoy spending my spare time by implementing well-known ML algorithms <br> from scratch 
 in various programming languages and frameworks. </em>
 <br>
 

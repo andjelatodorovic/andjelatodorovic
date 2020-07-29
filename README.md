@@ -9,6 +9,7 @@ in various programming languages and frameworks. </em>
 
 💬 <em> I'm open to freelance work. Drop me an email at <l>andjelatodorovich@gmail.com</l> </em>
 <br>
+
 ![Andjela's github stats](https://github-readme-stats.vercel.app/api?username=kobrica&show_icons=true&theme=default&count_private=true&hide=issues,contribs) <br>
 
 <em> :heart: Loved any of my personal projects?  Buy me a tea here [![paypal.me/kobrica](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/kobrica)

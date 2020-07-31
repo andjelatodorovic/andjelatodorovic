@@ -3,15 +3,9 @@
 🌱 <em> My professional passion sums up to contributing to research in machine <br> and deep learning, and application of statistical inference tools in bioinformatics. </em> 
 <br>
 
-👩🏼‍🎓 <em> I enjoy spending my spare time by implementing well-known ML algorithms <br> from scratch 
-in various programming languages and frameworks. </em>
-<br>
 
 💬 <em> I'm open to freelance work. Drop me an email at <l>andjelatodorovich@gmail.com</l> </em>
 <br>
-
-![Andjela's github stats](https://github-readme-stats.vercel.app/api?username=kobrica&show_icons=true&theme=default&count_private=true&hide=issues,contribs) <br>
-
 <em> :heart: Loved any of my personal projects?  Buy me a tea here [![paypal.me/kobrica](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/kobrica)
 <!--
 **kobrica/kobrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
